@@ -22,13 +22,6 @@
 
 - [**yinlv-vision**](https://github.com/AndyWangAA/yinlv-vision) — interactive visual analytics dashboard for Chinese digital music (Vue 3 + ECharts). [Live demo](https://andywangaa.github.io/yinlv-vision/)
 
-### 🏆 Honors
-
-- Honorable Mention, Mathematical Contest in Modeling (MCM) 2026
-- University Scholarship (2 consecutive years) & Outstanding Student, Sichuan University (2024 – 2025)
-- Third Prize (Sichuan), 15th Blue Bridge Cup, C/C++ Programming Group A (2024)
-- 10+ registered software copyrights (IoT, intelligent sensing, front-end management platforms)
-
 ### 🛠️ Skills
 
 - **Languages:** C/C++ · Python · Verilog · SQL
