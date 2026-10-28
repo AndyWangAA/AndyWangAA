@@ -4,6 +4,11 @@
 - 🌏 Final-year exchange student at **NUS School of Computing** (NGNE programme, Aug 2026 – May 2027)
 - 🔬 Interests: **LLMs**, **multi-agent systems**, **multimodal learning**
 
+### 🔬 Research
+
+- **LLM robustness to realistic Chinese typos** — Undergraduate Researcher, Sichuan University (Jan 2026 – Present)  
+  Studying how keyboard mistyping in Chinese input-method (IME) scenarios affects LLM comprehension; designed a typo simulation strategy and built a benchmark to evaluate open-source Chinese LLMs (Qwen3, InternLM3, GLM4).
+
 ### 💼 Experience
 
 - **Software Development Intern**, Chengdu Yalixin Technology (Sept 2025 – Jan 2026)  
