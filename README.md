@@ -4,10 +4,6 @@
 - 🌏 Final-year exchange student at **NUS School of Computing** (NGNE programme, Aug 2026 – May 2027)
 - 🔬 Interests: **LLMs**, **multi-agent systems**, **multimodal learning**
 
-### 🔭 What I'm working on
-
-- **Multi-agent emergency decision-assistance system** — core developer of a university innovation project; designing the central scheduler that orchestrates multiple AI agents for reliable outputs in medical scenarios.
-
 ### 💼 Experience
 
 - **Software Development Intern**, Chengdu Yalixin Technology (Sept 2025 – Jan 2026)  
